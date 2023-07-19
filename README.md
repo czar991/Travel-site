@@ -1,3 +1,3 @@
 # Travel-site
-Статичный одностраничник
+Лендинг
 Дэмо - https://czar991.github.io/Travel-site/
